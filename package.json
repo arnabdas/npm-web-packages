@@ -1,0 +1,23 @@
+{
+  "name": "AngularJS-Bootstrap-Jquery",
+  "version": "1215.311.210",
+  "description": "Will contain latest AngularJS, Bootstrap and Jquery distribution for npm",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arnab-das/npm-web-packages.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Bootstrap",
+    "Jquery"
+  ],
+  "author": "Arnab Das <arnab.social@live.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnab-das/npm-web-packages/issues"
+  }
+}
